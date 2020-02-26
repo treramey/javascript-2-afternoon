@@ -107,6 +107,7 @@ var user2 = {
 */
 
 //Code Here
+user2.name = 'Bryan G. Smith';
 user2.email = 'bryan.smith@devmounta.in';
 
 /////////////////////// EXTRA PRACTICE PROBLEMS BELOW ////////////////////
